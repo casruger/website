@@ -1,7 +1,6 @@
 ---
-title: "Automatically Install R Packages Used in a Project"
-description: "Easily find all the R packages used in a project and automatically install them."
-keywords: "R packages, installation, find, gist"
+title: "The lenght of this tile is good, and should be correct"
+description: "The length of this description is good and should be able to merge correctly. This hould not give any flag or error message because the lenght is correct"
 #date: 2021-01-06T22:01:14+05:30
 draft: false
 aliases:
