@@ -1,4 +1,5 @@
 title: "short"
+description: "short description"
 # Tilburg Science Hub
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f811bd2e-cf5d-4f1c-8688-0c2fee482141/deploy-status)](https://app.netlify.com/sites/tsh-website/deploys)
 
