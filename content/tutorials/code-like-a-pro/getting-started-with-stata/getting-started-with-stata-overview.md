@@ -2,7 +2,7 @@
 tutorialtitle: "Getting started with Stata"
 type: "stata-programming"
 title: "Getting started with Stata"
-description: "Learn to code in Stata"
+description: "Short description"
 keywords: "learn, Stata, resources, installation, style, code, guidelines, best practices"
 weight: 1
 date: 2022-09-08T22:02:51+05:30
